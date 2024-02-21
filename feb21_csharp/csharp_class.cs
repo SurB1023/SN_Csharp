@@ -23,16 +23,16 @@ namespace Human;
     Console.WriteLine($"My name is {fname} {lname} and I am {age} years old.");
   
   }
- public static void Main()
- {
-     //Person p1 = new Person("Geeta","Rai",30);  //1b
-     //p1.show();     //1b
+//  public static void Main()
+//  {
+//      //Person p1 = new Person("Geeta","Rai",30);  //1b
+//      //p1.show();     //1b
 
-    var p2 = new Person(){fname="Raju",lname="Raman",age=28};   // 1a
-    p2.show();    // 1a
+//     var p2 = new Person(){fname="Raju",lname="Raman",age=28};   // 1a
+//     p2.show();    // 1a
     
     
-  }
+//   }
 }
    
   
