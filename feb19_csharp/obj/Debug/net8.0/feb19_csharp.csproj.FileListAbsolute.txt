@@ -1,0 +1,14 @@
+C:\Users\surnaik\Documents\study\feb19_csharp\bin\Debug\net8.0\feb19_csharp.exe
+C:\Users\surnaik\Documents\study\feb19_csharp\bin\Debug\net8.0\feb19_csharp.deps.json
+C:\Users\surnaik\Documents\study\feb19_csharp\bin\Debug\net8.0\feb19_csharp.runtimeconfig.json
+C:\Users\surnaik\Documents\study\feb19_csharp\bin\Debug\net8.0\feb19_csharp.dll
+C:\Users\surnaik\Documents\study\feb19_csharp\bin\Debug\net8.0\feb19_csharp.pdb
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.AssemblyInfoInputs.cache
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.AssemblyInfo.cs
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.csproj.CoreCompileInputs.cache
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.dll
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\refint\feb19_csharp.dll
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.pdb
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\feb19_csharp.genruntimeconfig.cache
+C:\Users\surnaik\Documents\study\feb19_csharp\obj\Debug\net8.0\ref\feb19_csharp.dll
