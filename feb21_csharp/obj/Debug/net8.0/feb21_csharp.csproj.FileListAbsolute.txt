@@ -3,3 +3,13 @@ C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\
 C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.AssemblyInfo.cs
 C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.csproj.CoreCompileInputs.cache
 C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.sourcelink.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\bin\Debug\net8.0\feb21_csharp.exe
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\bin\Debug\net8.0\feb21_csharp.deps.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\bin\Debug\net8.0\feb21_csharp.runtimeconfig.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\bin\Debug\net8.0\feb21_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\bin\Debug\net8.0\feb21_csharp.pdb
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\refint\feb21_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.pdb
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.genruntimeconfig.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\ref\feb21_csharp.dll
