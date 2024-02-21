@@ -1,0 +1,5 @@
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.AssemblyInfoInputs.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.AssemblyInfo.cs
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.csproj.CoreCompileInputs.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb21_csharp\obj\Debug\net8.0\feb21_csharp.sourcelink.json
