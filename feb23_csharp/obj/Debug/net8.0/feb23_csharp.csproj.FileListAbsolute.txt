@@ -1,0 +1,15 @@
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\bin\Debug\net8.0\feb23_csharp.exe
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\bin\Debug\net8.0\feb23_csharp.deps.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\bin\Debug\net8.0\feb23_csharp.runtimeconfig.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\bin\Debug\net8.0\feb23_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\bin\Debug\net8.0\feb23_csharp.pdb
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.AssemblyInfoInputs.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.AssemblyInfo.cs
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.csproj.CoreCompileInputs.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.sourcelink.json
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\refint\feb23_csharp.dll
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.pdb
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\feb23_csharp.genruntimeconfig.cache
+C:\Users\surnaik\Documents\study\cSharp\SN_Csharp\feb23_csharp\obj\Debug\net8.0\ref\feb23_csharp.dll
