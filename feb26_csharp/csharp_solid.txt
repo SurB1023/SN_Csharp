@@ -1,0 +1,262 @@
+S - Single-responsiblity Principle :this principle states that a class should only have one responsibility.
+
+eg: SRP followed
+    public class download{} 
+    public class search{}
+    public class save{}
+    
+    SRP not followed
+    public class file
+    {
+        void download(); X
+        void search(); X
+        void save(); X
+    }
+
+
+
+
+O - Open-closed Principle :classes should be open for extension but closed for modification. 
+                           In doing so, we stop ourselves from modifying existing code and causing potential new bugs in an otherwise happy application.
+
+eg: OCP followed
+public abstract shape{
+   public void area()
+    {
+
+    }
+}
+public class Reactangle: shape
+{
+    public override void area()
+    {
+        
+    do this;
+
+    }
+
+}
+public class square: shape
+{
+   public override void area()
+    {
+        
+    do this;
+
+    }
+
+}
+
+
+
+OCP not followed
+public class shapeArea
+{
+    double area;
+    void shapetype(string[] shapes)
+    {
+        foreach (shape from shapes)
+        {
+            if(shape=="rectangle")
+              do this;
+            else if (shape=="square")
+             do this;
+            else
+              do this; 
+        }
+ 
+    }
+}
+
+
+
+L - Liskov Substitution Principle : if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program.
+
+eg: LSP followed
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            IFruit fruit = new Orange();
+            Console.WriteLine($"Color of Orange: {fruit.GetColor()}");
+            fruit = new Apple();
+            Console.WriteLine($"Color of Apple: {fruit.GetColor()}");
+            Console.ReadKey();
+        }
+    }
+    public interface IFruit
+    {
+        string GetColor();
+    }
+    public class Apple : IFruit
+    {
+        public string GetColor()
+        {
+            return "Red";
+        }
+    }
+    public class Orange : IFruit
+    {
+        public string GetColor()
+        {
+            return "Orange";
+        }
+    }
+
+    LSP not followed
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Apple apple = new Orange();
+            Console.WriteLine(apple.GetColor());
+        }
+    }
+    public class Apple
+    {
+        public virtual string GetColor()
+        {
+            return "Red";
+        }
+    }
+    public class Orange : Apple
+    {
+        public override string GetColor()
+        {
+            return "Orange";
+        }
+    }
+
+
+
+     
+I - Interface Segregation Principle : larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be
+                                     concerned about the methods that are of interest to them.
+
+
+eg:  ISP followed
+
+public animal
+{
+    void feed()
+    {
+
+    }
+   
+}
+public pet:animal
+{
+     void groom()
+    {
+        
+    }
+}
+public dog:pet
+{
+    void feed()
+    {
+
+    }
+     void groom()
+    {
+        
+    }
+}
+public tiger:animal
+{
+     void feed()
+    {
+
+    }
+     void groom()
+    {
+        
+    }
+}
+
+ ISP not followed
+ public animal
+{
+    void feed()
+    {
+
+    }
+     void groom()
+    {
+        
+    }
+
+   
+}
+public dog:animal
+{
+    void feed()
+    {
+
+    }
+     void groom()
+    {
+        
+    }
+}
+public tiger:animal
+{
+    void feed()
+    {
+
+    }
+     void groom() //not possible
+    {
+        
+    }
+}
+
+D - Dependency Inversion Principle : The principle of dependency inversion refers to the decoupling of software modules. This way, 
+                                     instead of high-level modules depending on low-level modules, both will depend on abstractions.
+
+
+eg:  DIP followed
+
+interface Reader
+ char read;
+
+interface Writer
+ char write;
+
+void copy(Reader r,Writer w)
+{
+    char ch;
+    while((ch=r.read)!=EOF())
+    {
+        w.write(ch);
+    }
+}   
+
+DIP not followed
+
+enum OutputDevice {printer, disk};
+
+void copy(OutputDevice dev)
+
+{
+
+int c;
+
+while ( ( c = ReadKeyboard()) ! = EOF)
+
+{
+
+if ( dev == printer)
+
+writePrinter(c);
+
+else
+
+writeDisk(c);
+
+}
+
+}
